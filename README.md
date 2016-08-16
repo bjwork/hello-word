@@ -1,2 +1,2 @@
 # hello-word
-this is my first object on github
+this is my first project on github
